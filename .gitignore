@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Machine Learning Artifacts
+*.pkl
+pytorch_model.bin
+*.safetensors
+*.h5
+
+# Build
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

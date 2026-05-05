@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+shap
+scikit-learn
+pandas
+numpy
+flask
+flask-cors
